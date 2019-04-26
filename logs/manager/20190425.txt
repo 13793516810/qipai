@@ -1,0 +1,4 @@
+[2019-04-25 17:44:38.601] [INFO] LOG - env   eerduosi-test
+[2019-04-25 17:44:38.604] [INFO] LOG - redis 127.0.0.1 6379
+[2019-04-25 17:44:38.604] [INFO] LOG - mysql 127.0.0.1 test-xuzhou
+[2019-04-25 17:44:38.683] [INFO] LOG - manager server listening at port 9992

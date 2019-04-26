@@ -1,0 +1,4 @@
+[2019-04-25 17:44:36.830] [INFO] LOG - env   eerduosi-test
+[2019-04-25 17:44:36.882] [INFO] LOG - redis 127.0.0.1 6379
+[2019-04-25 17:44:36.882] [INFO] LOG - mysql 127.0.0.1 test-xuzhou
+[2019-04-25 17:44:36.982] [INFO] LOG - member server listening at port 9991
